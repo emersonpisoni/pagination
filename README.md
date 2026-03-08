@@ -187,7 +187,7 @@ Use **server-side pagination** when:
 * Filtering, sorting, and searching are required
 * Data comes from a database
 
-## Next studies
+# Next studies
 
 - Client-side pagination
 - Server-side pagination
