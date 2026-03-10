@@ -187,14 +187,14 @@ Use **server-side pagination** when:
 * Filtering, sorting, and searching are required
 * Data comes from a database
 
-In many real-world systems, server-side pagination is the preferred solution due to scalability.
+## Next studies
 
----
-
-# Conclusion
-
-Both pagination strategies solve the same problem but are optimized for different scenarios.
-
-Client-side pagination prioritizes simplicity and speed for small datasets, while server-side pagination focuses on scalability and efficient data handling.
-
-Understanding both approaches is essential for building performant and maintainable web applications.
+- Client-side pagination
+- Server-side pagination
+- Offset pagination
+- Cursor pagination
+- Keyset pagination
+- Infinite scroll
+- Load more pagination
+- GraphQL pagination
+- Virtualized lists
